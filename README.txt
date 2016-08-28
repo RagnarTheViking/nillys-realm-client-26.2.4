@@ -13,3 +13,5 @@ This client is not my work, I've only build a flash project from it. :) Took a w
 This client can be used with other sources if you modify it, search up SEEMELATER to see anything you have to fix, everything that I did wrong, I commented out with the tag SEEMELATER.
 
 This is just something to start off with.
+
+Fonts need to be added, I only fixed the errors, didn't add anything else.
