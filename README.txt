@@ -14,4 +14,4 @@ This client can be used with other sources if you modify it, search up SEEMELATE
 
 This is just something to start off with.
 
-Fonts need to be added, I only fixed the errors, didn't add anything else.
+Fonts need to be added, I only fixed the errors, didn't add anything else. (I will add the fonts in when I get some free time)
